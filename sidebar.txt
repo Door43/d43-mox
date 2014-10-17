@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mox:home|Door43 (mox)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mox|d43-mox repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mox/archive/master.zip|d43-mox.zip]]
+
+**Recent Changes**
+{{changes>ns = mox}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mox|Ethnologue data]]
+
